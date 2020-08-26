@@ -1,6 +1,6 @@
 # Container Security
 
-# Anchore Engine
+## Anchore Engine
 
 ## Quick Start
 
