@@ -12,7 +12,7 @@ curl https://docs.anchore.com/current/docs/engine/quickstart/docker-compose.yaml
 docker-compose up
 ```
 
-## Getting start using anchore-cli
+## Getting Start using anchore-cli
 
 
 ## Anchore Engine
