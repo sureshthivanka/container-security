@@ -2,7 +2,7 @@
 
 ## Anchore Engine
 
-## Quick Start
+### Quick Start
 
 ### Using docker-compose
 
