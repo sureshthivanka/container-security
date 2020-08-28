@@ -17,7 +17,8 @@ docker-compose up
 ## Getting Start using anchore-cli
 
 
-## Anchore Engine
-
 Add an image to the Anchore Engine
 
+```
+anchore-cli image add wso2/wso2is:latest
+```
